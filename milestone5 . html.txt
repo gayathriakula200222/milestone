@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  text-align: center;
+  font-size: 18px;
+}
+
+img { 
+  width: 80%;
+  height: auto;
+  opacity: 2.0;
+}
+</style>
+</head>
+<body>
+<h2>menu list:</h2>
+
+<div class="container">
+  <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/price-list-template-menu-card-food-drinks-design-71e938f284d0cdf6d09e72ece13a494b_screen.jpg?ts=1637026124" alt="Cinque Terre" width="1000" height="300">
+  
+</div>
+
+</body>
+</html>
+
+
