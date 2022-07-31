@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>AN Unordered HTML List </h2>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+    <h2> An Ordered HTML List</h2>
+    <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <h2>A Definition HTML List</h2>
+    <dl>
+        <dt>Colleges</dt>
+        <dd>A Learning Place</dd>
+        <dt>Library</dt>
+        <dd>Get knowledge as much as u can</dd>
+        <dt>Railway station</dt>
+        <dd>too much crowded</dd>
+    </dl>
+    <h2>A Type attributes</h2>
+    <ol type="a" start="3">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+        <li>Tech Ravikrishna</li>
+        <li>PHP</li>
+        <li>SQL</li>
+        </ol>
+        <ol type="A">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+            <li>Tech Ravikrishna</li>
+            <li>PHP</li>
+            <li>SQL</li>
+        </ol>
+        <h2>A Start Attribute</h2>
+<input type="color"/>
+<input type="range"/>
+    <input>
+</body>
+</html>
